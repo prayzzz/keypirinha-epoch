@@ -9,7 +9,9 @@ This is epoch, a plugin for the
 
 Convert a epoch timestamp to various human readable formats.
 
-![Demo](usage.gif)
+<p align="center">
+  <img src="usage.gif" />
+</p>
 
 ## Download
 
