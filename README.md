@@ -39,5 +39,5 @@ This package is distributed under the terms of the MIT license.
 
 ## Thanks
 
-Icon by [Nick Frost](https://www.iconfinder.com/Gimpopo)
-Reference implementations [Ricardo Fuhrmann](https://github.com/Fuhrmann)
+* Icon by [Nick Frost](https://www.iconfinder.com/Gimpopo)
+* Reference implementations [Ricardo Fuhrmann](https://github.com/Fuhrmann)
