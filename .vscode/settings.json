@@ -1,0 +1,10 @@
+{
+    "python.jediEnabled": false,
+    "python.formatting.provider": "autopep8",
+    "python.formatting.autopep8Args": [
+        "--max-line-length=150"
+    ],
+    "python.autoComplete.extraPaths": [
+        "../keypirinha-api/src"
+    ]
+}

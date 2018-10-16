@@ -1,0 +1,6 @@
+[MASTER]
+init-hook='import sys; sys.path.append("../keypirinha-api/src")'
+disable=C0111
+
+[FORMAT]
+max-line-length=150

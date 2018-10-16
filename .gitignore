@@ -1,0 +1,7 @@
+__pycache__/
+
+build/
+
+make.cmd
+runInstall.ps1
+runTests.ps1
