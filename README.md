@@ -13,7 +13,9 @@ Convert a epoch timestamp to various human readable formats.
 
 ## Download
 
-https://github.com/prayzzz/keypirinha-epoch/releases
+**Latest 1.0.0:** https://github.com/prayzzz/keypirinha-epoch/releases/download/1.0.0/epoch.keypirinha-package
+
+**All Releases:** https://github.com/prayzzz/keypirinha-epoch/releases
 
 
 ## Install
